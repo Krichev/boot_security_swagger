@@ -1,0 +1,335 @@
+[INFO ] 2019-10-23 22:42:25.939 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 22:49:58.927 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 22:56:17.503 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 22:56:39.313 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 22:57:09.360 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null}  send messageMessage(name=client_agent, text=hello, from client)
+[INFO ] 2019-10-23 22:57:36.171 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 22:57:37.802 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2aa46f} registered/logged in new user
+[INFO ] 2019-10-23 22:58:08.176 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2aa46f}  send messageMessage(name=agent_agent, text=hi, from console)
+[INFO ] 2019-10-23 22:58:12.008 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2aa46f}  send messageMessage(name=agent_agent, text=)
+[INFO ] 2019-10-23 23:00:44.525 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2aa46f} this connectionWebsocket has closed
+[INFO ] 2019-10-23 23:00:59.034 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:01:00.148 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@f13a43} registered/logged in new user
+[INFO ] 2019-10-23 23:04:17.206 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@f13a43} this connectionWebsocket has closed
+[INFO ] 2019-10-23 23:08:24.773 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:08:25.919 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1bc84ae} registered/logged in new user
+[INFO ] 2019-10-23 23:13:30.216 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1bc84ae} this connectionWebsocket has closed
+[INFO ] 2019-10-23 23:14:46.421 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:14:47.603 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2} registered/logged in new user
+[INFO ] 2019-10-23 23:15:02.238 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=dd)
+[INFO ] 2019-10-23 23:18:27.332 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:18:32.135 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1a62f4f} registered/logged in new user
+[INFO ] 2019-10-23 23:19:06.825 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1a62f4f}  send messageMessage(name=agent_agent, text=sdfsdf        )
+[INFO ] 2019-10-23 23:19:22.472 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=sdggf)
+[INFO ] 2019-10-23 23:19:23.420 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=dfgf)
+[INFO ] 2019-10-23 23:19:24.174 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=dfg)
+[INFO ] 2019-10-23 23:19:24.928 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=dfgdf)
+[INFO ] 2019-10-23 23:19:25.706 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=fgfdg)
+[INFO ] 2019-10-23 23:19:26.054 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=)
+[INFO ] 2019-10-23 23:19:26.272 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=)
+[INFO ] 2019-10-23 23:19:26.426 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=)
+[INFO ] 2019-10-23 23:19:26.573 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=)
+[INFO ] 2019-10-23 23:19:26.699 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2}  send messageMessage(name=client_agent, text=)
+[INFO ] 2019-10-23 23:19:41.703 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@eb1ca2} this connectionWebsocket has closed
+[INFO ] 2019-10-23 23:23:02.926 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:23:04.106 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@124e70} registered/logged in new user
+[INFO ] 2019-10-23 23:23:52.655 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@124e70} this connectionWebsocket has closed
+[INFO ] 2019-10-23 23:24:35.501 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:24:36.639 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@186b0f5} registered/logged in new user
+[INFO ] 2019-10-23 23:27:01.620 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@186b0f5}  send messageMessage(name=client_agent, text=)
+[INFO ] 2019-10-23 23:27:01.623 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@186b0f5}  send messageMessage(name=client_agent, text=sdfds)
+[INFO ] 2019-10-23 23:27:02.423 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@186b0f5}  send messageMessage(name=client_agent, text=sdfds)
+[INFO ] 2019-10-23 23:27:03.190 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@186b0f5}  send messageMessage(name=client_agent, text=dfsd)
+[INFO ] 2019-10-23 23:33:26.106 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@186b0f5} this connectionWebsocket has closed
+[INFO ] 2019-10-23 23:35:47.690 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:36:12.003 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello, from client)
+[INFO ] 2019-10-23 23:36:39.661 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello, from client)
+[INFO ] 2019-10-23 23:36:54.100 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:36:57.829 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello, from client)
+[INFO ] 2019-10-23 23:37:00.669 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello, from client)
+[INFO ] 2019-10-23 23:37:13.672 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello, from client)
+[INFO ] 2019-10-23 23:38:21.621 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:38:41.400 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-23 23:47:32.273 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:47:47.292 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-23 23:50:33.764 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:50:52.970 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-23 23:51:23.782 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-23 23:53:25.391 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:53:35.143 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-23 23:54:04.294 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-23 23:56:19.099 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:56:39.055 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=hello)
+[INFO ] 2019-10-23 23:59:24.057 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=string [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-23 23:59:42.464 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=string [ROLE_AGENT], session=null}  send messageMessage(name=string_agent, text=ssd)
+[INFO ] 2019-10-24 00:01:48.441 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:02:19.201 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=hello, from client)
+[INFO ] 2019-10-24 00:02:56.494 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:03:29.349 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:03:43.656 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:05:16.120 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:05:29.887 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:05:47.244 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:05:58.599 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null}  send messageMessage(name=agent_agent, text=sdss)
+[INFO ] 2019-10-24 00:06:48.039 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:06:54.945 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:06:55.515 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:06:55.893 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:06:56.083 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:06:56.232 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null}  send messageMessage(name=string_client, text=sdss)
+[INFO ] 2019-10-24 00:08:12.354 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:08:33.710 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 00:09:24.900 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=string [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:12:01.384 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@8068cf} registered/logged in new user
+[INFO ] 2019-10-24 00:12:07.193 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@8068cf} this connectionWebsocket has closed
+[INFO ] 2019-10-24 00:12:24.310 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:12:28.466 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1ac7517} registered/logged in new user
+[INFO ] 2019-10-24 00:12:41.018 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1ac7517}  send messageMessage(name=agent_agent, text=      hello)
+[INFO ] 2019-10-24 00:13:11.250 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:13:12.118 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:16:19.401 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=cdscd [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:16:20.188 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=cdscd [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:18:04.514 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=bbbbb [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:18:05.594 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=bbbbb [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:25:28.796 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:25:29.690 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:25:30.989 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@fb372f} registered/logged in new user
+[INFO ] 2019-10-24 00:25:43.114 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@fb372f}  send messageMessage(name=client_client, text=hello from client)
+[INFO ] 2019-10-24 00:25:43.117 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@fb372f} this connectionWebsocket has closed
+[INFO ] 2019-10-24 00:25:52.697 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@145e6d1} registered/logged in new user
+[INFO ] 2019-10-24 00:26:08.384 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@145e6d1} this connectionWebsocket has closed
+[INFO ] 2019-10-24 00:26:08.384 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} this client become free
+[INFO ] 2019-10-24 00:26:11.055 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@ef1777} registered/logged in new user
+[INFO ] 2019-10-24 00:27:41.721 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1701165} registered/logged in new user
+[INFO ] 2019-10-24 00:28:56.059 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@51e4f1} registered/logged in new user
+[INFO ] 2019-10-24 00:29:13.442 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@51e4f1} this connectionWebsocket has closed
+[INFO ] 2019-10-24 00:29:13.519 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@8db70f} registered/logged in new user
+[INFO ] 2019-10-24 00:29:14.097 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@8db70f} this connectionWebsocket has closed
+[INFO ] 2019-10-24 00:29:14.144 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@723bf2} registered/logged in new user
+[INFO ] 2019-10-24 00:29:24.413 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@723bf2} this connectionWebsocket has closed
+[INFO ] 2019-10-24 00:30:26.039 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:30:34.281 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@c34b0b} registered/logged in new user
+[INFO ] 2019-10-24 00:30:44.503 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@c34b0b}  send messageMessage(name=agent_agent, text=        hello, client)
+[INFO ] 2019-10-24 00:31:04.439 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:31:05.342 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:31:06.586 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1fdcaa3} registered/logged in new user
+[INFO ] 2019-10-24 00:31:24.527 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1fdcaa3}  send messageMessage(name=client_client, text=hello, agent)
+[INFO ] 2019-10-24 00:36:02.111 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1a5a666} registered/logged in new user
+[INFO ] 2019-10-24 00:36:05.787 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1a5a666}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 00:36:33.546 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:36:34.344 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 00:36:35.444 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1cd02b7} registered/logged in new user
+[INFO ] 2019-10-24 00:36:58.702 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1cd02b7}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-24 00:37:16.936 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1a5a666}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 00:43:19.363 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@c43fc0} registered/logged in new user
+[INFO ] 2019-10-24 00:43:26.844 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@c43fc0}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 01:01:35.338 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:01:45.613 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1f33e48} registered/logged in new user
+[INFO ] 2019-10-24 01:01:50.332 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1f33e48}  send messageMessage(name=client_ROLE_CLIENT, text=        hello)
+[INFO ] 2019-10-24 01:01:50.336 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1f33e48} this connectionWebsocket has closed
+[INFO ] 2019-10-24 01:01:58.623 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:02:03.039 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@6208db} registered/logged in new user
+[INFO ] 2019-10-24 01:02:09.245 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@6208db}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 01:05:02.258 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@89ad1} registered/logged in new user
+[INFO ] 2019-10-24 01:05:05.727 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@89ad1}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 01:05:09.931 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@cf59c1} registered/logged in new user
+[INFO ] 2019-10-24 01:05:12.621 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@cf59c1}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 01:05:18.710 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@89ad1}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 01:05:23.407 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@cf59c1}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 01:08:09.053 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1b37d8b} registered/logged in new user
+[INFO ] 2019-10-24 01:08:13.936 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1b37d8b}  send messageMessage(name=agent_agent, text=        hello)
+[INFO ] 2019-10-24 01:08:17.647 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2a85c6} registered/logged in new user
+[INFO ] 2019-10-24 01:08:40.173 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2a85c6} this connectionWebsocket has closed
+[INFO ] 2019-10-24 01:08:51.453 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:08:53.580 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@f7a64} registered/logged in new user
+[INFO ] 2019-10-24 01:11:06.581 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:11:10.138 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@a98bd9} registered/logged in new user
+[INFO ] 2019-10-24 01:11:28.395 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:11:30.845 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1bfc20c} registered/logged in new user
+[INFO ] 2019-10-24 01:11:38.164 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@a98bd9}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 01:11:47.137 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1bfc20c}  send messageMessage(name=client_client, text=        hi, agent)
+[INFO ] 2019-10-24 01:12:28.870 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:12:32.503 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1cc0f6b} registered/logged in new user
+[INFO ] 2019-10-24 01:12:59.878 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:13:00.701 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:13:01.939 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@98c147} registered/logged in new user
+[INFO ] 2019-10-24 01:13:08.364 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@98c147}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-24 01:13:18.222 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1cc0f6b}  send messageMessage(name=agent_agent, text=        hi, console)
+[INFO ] 2019-10-24 01:18:16.525 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@18808c0} registered/logged in new user
+[INFO ] 2019-10-24 01:18:27.955 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@18808c0}  send messageMessage(name=agent_agent, text=hello, console        )
+[INFO ] 2019-10-24 01:18:50.910 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:18:51.708 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:18:52.787 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@eeeb70} registered/logged in new user
+[INFO ] 2019-10-24 01:19:15.631 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@eeeb70}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-24 01:36:40.763 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11f1324} registered/logged in new user
+[INFO ] 2019-10-24 01:36:45.858 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11f1324} this connectionWebsocket has closed
+[INFO ] 2019-10-24 01:36:51.014 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:36:54.934 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11cc5bf} registered/logged in new user
+[INFO ] 2019-10-24 01:37:22.569 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:37:23.353 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:37:24.446 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@b0e4bc} registered/logged in new user
+[INFO ] 2019-10-24 01:37:28.976 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@b0e4bc}  send messageMessage(name=client_client, text=hello)
+[INFO ] 2019-10-24 01:37:28.980 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@b0e4bc} this connectionWebsocket has closed
+[INFO ] 2019-10-24 01:37:28.980 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11f1324} this agent become free
+[INFO ] 2019-10-24 01:37:55.127 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11cc5bf}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 01:38:33.726 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11cc5bf}  send messageMessage(name=agent_agent, text=sdfd)
+[INFO ] 2019-10-24 01:38:35.692 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11cc5bf}  send messageMessage(name=agent_agent, text=sdf)
+[INFO ] 2019-10-24 01:39:35.315 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:39:36.397 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@13813c7} registered/logged in new user
+[INFO ] 2019-10-24 01:39:51.954 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@13813c7}  send messageMessage(name=client_client, text=dsfsdf)
+[INFO ] 2019-10-24 01:39:51.955 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@13813c7} this connectionWebsocket has closed
+[INFO ] 2019-10-24 01:39:51.955 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@11f1324} this agent become free
+[INFO ] 2019-10-24 01:50:43.782 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:50:44.938 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@7fc90e} registered/logged in new user
+[INFO ] 2019-10-24 01:50:48.495 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@7fc90e}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 01:50:50.344 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@7fc90e}  send messageMessage(name=agent_agent, text=fd)
+[INFO ] 2019-10-24 01:50:51.696 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@7fc90e}  send messageMessage(name=agent_agent, text=fdf)
+[INFO ] 2019-10-24 01:50:52.618 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@7fc90e}  send messageMessage(name=agent_agent, text=dfdf)
+[INFO ] 2019-10-24 01:50:53.417 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@7fc90e}  send messageMessage(name=agent_agent, text=df)
+[INFO ] 2019-10-24 01:50:54.521 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@7fc90e}  send messageMessage(name=agent_agent, text=df)
+[INFO ] 2019-10-24 01:51:16.975 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:51:19.346 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@15f95e3} registered/logged in new user
+[INFO ] 2019-10-24 01:51:25.146 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@15f95e3}  send messageMessage(name=client_client, text=fdfdfs        )
+[INFO ] 2019-10-24 01:51:26.778 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@15f95e3}  send messageMessage(name=client_client, text=sdf)
+[INFO ] 2019-10-24 01:52:13.428 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@15f95e3}  send messageMessage(name=client_client, text=uhijok)
+[INFO ] 2019-10-24 01:54:28.673 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:54:52.148 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 01:54:53.244 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@8aff48} registered/logged in new user
+[INFO ] 2019-10-24 01:55:00.011 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@8aff48}  send messageMessage(name=agent_agent, text=hwllo)
+[INFO ] 2019-10-24 01:55:04.262 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@f3288c} registered/logged in new user
+[INFO ] 2019-10-24 01:55:12.087 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@f3288c}  send messageMessage(name=client_client, text=        hello)
+[INFO ] 2019-10-24 01:55:13.608 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@f3288c}  send messageMessage(name=client_client, text=dsfsd)
+[INFO ] 2019-10-24 01:55:14.744 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@f3288c}  send messageMessage(name=client_client, text=sdfd)
+[INFO ] 2019-10-24 02:00:37.992 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:00:40.487 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@4a69c0} registered/logged in new user
+[INFO ] 2019-10-24 02:01:01.221 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:01:02.351 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@6208db} registered/logged in new user
+[INFO ] 2019-10-24 02:01:06.154 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@6208db}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 02:01:17.432 [http-nio-8080-exec-8] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@4a69c0}  send messageMessage(name=client_client, text=hello        )
+[INFO ] 2019-10-24 02:01:19.604 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@4a69c0}  send messageMessage(name=client_client, text=dsfsdf)
+[INFO ] 2019-10-24 02:02:44.630 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@6208db}  send messageMessage(name=agent_agent, text=sd)
+[INFO ] 2019-10-24 02:02:46.170 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@6208db}  send messageMessage(name=agent_agent, text=h)
+[INFO ] 2019-10-24 02:24:46.862 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:24:48.238 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@ae2ef8} registered/logged in new user
+[INFO ] 2019-10-24 02:24:53.184 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@ae2ef8}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 02:30:56.489 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:30:57.656 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@173d89} registered/logged in new user
+[INFO ] 2019-10-24 02:31:37.082 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:31:39.995 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@356e54} registered/logged in new user
+[INFO ] 2019-10-24 02:31:53.425 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@356e54}  send messageMessage(name=client_client, text=        sdfdsf)
+[INFO ] 2019-10-24 02:32:07.517 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@173d89}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 02:32:37.386 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@173d89} this connectionWebsocket has closed
+[INFO ] 2019-10-24 02:32:37.386 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@356e54} this client become free
+[INFO ] 2019-10-24 02:34:06.299 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:34:11.821 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@12c141f} registered/logged in new user
+[INFO ] 2019-10-24 02:34:31.426 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:34:33.921 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1b11af6} registered/logged in new user
+[INFO ] 2019-10-24 02:34:38.603 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@1b11af6}  send messageMessage(name=agent_agent, text=hello)
+[INFO ] 2019-10-24 02:35:07.856 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@12c141f}  send messageMessage(name=client_client, text=hello        )
+[INFO ] 2019-10-24 02:37:17.418 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:37:19.476 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@fdb255} registered/logged in new user
+[INFO ] 2019-10-24 02:37:46.746 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 02:37:52.079 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1bde5c7} registered/logged in new user
+[INFO ] 2019-10-24 02:38:01.220 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1bde5c7}  send messageMessage(name=client_client, text=hello        )
+[INFO ] 2019-10-24 02:38:15.019 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@fdb255}  send messageMessage(name=agent_agent, text=hi,web)
+[INFO ] 2019-10-24 02:38:34.865 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1bde5c7}  send messageMessage(name=client_client, text=i`m ok)
+[INFO ] 2019-10-24 02:39:39.480 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 17:13:44.925 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1355095} registered/logged in new user
+[INFO ] 2019-10-24 17:15:15.690 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1355095}  send messageMessage(name=client_client, text=        heelo)
+[INFO ] 2019-10-24 17:15:15.694 [http-nio-8080-exec-5] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@1355095} this connectionWebsocket has closed
+[INFO ] 2019-10-24 17:19:08.956 [http-nio-8080-exec-1] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2027d8} registered/logged in new user
+[INFO ] 2019-10-24 17:19:13.866 [http-nio-8080-exec-3] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2027d8}  send messageMessage(name=agent_agent, text=hello        )
+[INFO ] 2019-10-24 17:19:15.545 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2027d8}  send messageMessage(name=agent_agent, text=agent)
+[INFO ] 2019-10-24 17:19:42.647 [http-nio-8080-exec-7] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=null} registered/logged in new user
+[INFO ] 2019-10-24 17:19:44.846 [http-nio-8080-exec-10] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@131379} registered/logged in new user
+[INFO ] 2019-10-24 17:19:50.743 [http-nio-8080-exec-9] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@131379}  send messageMessage(name=client_client, text=bliin)
+[INFO ] 2019-10-24 17:20:01.452 [http-nio-8080-exec-2] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2027d8}  send messageMessage(name=agent_agent, text=hey, bro)
+[INFO ] 2019-10-24 17:20:21.940 [http-nio-8080-exec-4] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@131379}  send messageMessage(name=client_client, text=que, whre is it)
+[INFO ] 2019-10-24 17:21:09.713 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=client [ROLE_CLIENT], session=org.apache.tomcat.websocket.WsSession@131379} this connectionWebsocket has closed
+[INFO ] 2019-10-24 17:21:09.713 [http-nio-8080-exec-6] InMemoryChatRepository - Connection{user=agent [ROLE_AGENT], session=org.apache.tomcat.websocket.WsSession@2027d8} this agent become free
+[INFO ] 2019-10-24 18:44:05.994 [http-nio-8080-exec-7] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@5f76367 registered/logged in new user
+[INFO ] 2019-10-24 18:44:09.270 [http-nio-8080-exec-9] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@5f76367  send messageMessage(name=client_client, text=        hello)
+[INFO ] 2019-10-24 18:44:13.319 [http-nio-8080-exec-10] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@5f76367  send messageMessage(name=client_client, text=hi)
+[INFO ] 2019-10-24 18:46:57.202 [http-nio-8080-exec-4] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1113124c registered/logged in new user
+[INFO ] 2019-10-24 18:47:20.088 [http-nio-8080-exec-8] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1113124c  send messageMessage(name=agent_agent, text=i froadfdsf)
+[INFO ] 2019-10-24 18:47:34.867 [http-nio-8080-exec-9] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@5f76367 this client become free
+[INFO ] 2019-10-24 18:47:34.868 [http-nio-8080-exec-9] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1113124c this agent become free
+[INFO ] 2019-10-24 19:13:26.587 [http-nio-8080-exec-3] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@375b3208 registered/logged in new user
+[INFO ] 2019-10-24 19:13:49.892 [http-nio-8080-exec-1] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@760858b registered/logged in new user
+[INFO ] 2019-10-24 19:13:53.509 [http-nio-8080-exec-2] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@760858b  send messageMessage(name=client_client, text=hello        )
+[INFO ] 2019-10-24 19:13:53.509 [http-nio-8080-exec-2] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:13:53.509 [http-nio-8080-exec-2] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:14:02.508 [http-nio-8080-exec-3] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@760858b  send messageMessage(name=client_client, text=An)
+[INFO ] 2019-10-24 19:14:02.508 [http-nio-8080-exec-3] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:14:02.509 [http-nio-8080-exec-3] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:14:08.060 [http-nio-8080-exec-4] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@760858b  send messageMessage(name=client_client, text=n)
+[INFO ] 2019-10-24 19:14:08.060 [http-nio-8080-exec-4] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:14:08.061 [http-nio-8080-exec-4] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:14:31.666 [http-nio-8080-exec-5] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@375b3208  send messageMessage(name=agent_agent, text=hey,hey)
+[INFO ] 2019-10-24 19:14:49.577 [http-nio-8080-exec-6] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@375b3208  send messageMessage(name=agent_agent, text=agent)
+[INFO ] 2019-10-24 19:28:15.225 [http-nio-8080-exec-2] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:29:25.991 [http-nio-8080-exec-5] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@281fa3b7 registered/logged in new user
+[INFO ] 2019-10-24 19:29:29.965 [http-nio-8080-exec-6] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@281fa3b7  send messageMessage(name=client_client, text=helllllllll        )
+[INFO ] 2019-10-24 19:29:29.966 [http-nio-8080-exec-6] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:29:29.966 [http-nio-8080-exec-6] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:30:03.650 [http-nio-8080-exec-10] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@482cd2f registered/logged in new user
+[INFO ] 2019-10-24 19:30:03.650 [http-nio-8080-exec-10] InMemoryChatRepository - client_clientsendQueueMessagesFrom_Whom
+[INFO ] 2019-10-24 19:30:19.467 [http-nio-8080-exec-1] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@482cd2f  send messageMessage(name=agent_agent, text=ok, iam here)
+[INFO ] 2019-10-24 19:30:19.524 [http-nio-8080-exec-1] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@760858b this client become free
+[INFO ] 2019-10-24 19:30:19.524 [http-nio-8080-exec-1] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@482cd2f this agent become free
+[INFO ] 2019-10-24 19:33:46.153 [http-nio-8080-exec-4] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:33:46.465 [http-nio-8080-exec-6] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@55b6177 registered/logged in new user
+[INFO ] 2019-10-24 19:33:46.465 [http-nio-8080-exec-6] InMemoryChatRepository - agent_agentsendQueueMessagesFrom_Whom
+[INFO ] 2019-10-24 19:33:50.703 [http-nio-8080-exec-8] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@55b6177  send messageMessage(name=client_client, text=        hedsfd)
+[INFO ] 2019-10-24 19:33:50.704 [http-nio-8080-exec-8] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@482cd2f map find this
+[INFO ] 2019-10-24 19:33:50.704 [http-nio-8080-exec-8] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@482cd2f speak with client_client
+[INFO ] 2019-10-24 19:33:50.706 [http-nio-8080-exec-8] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@482cd2f map find this
+[INFO ] 2019-10-24 19:33:50.706 [http-nio-8080-exec-8] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@482cd2f this agent become free
+[INFO ] 2019-10-24 19:44:27.381 [http-nio-8080-exec-4] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@2624669f registered/logged in new user
+[INFO ] 2019-10-24 19:44:42.654 [http-nio-8080-exec-5] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@2624669f  send messageMessage(name=agent_agent, text=        hell)
+[INFO ] 2019-10-24 19:44:55.447 [http-nio-8080-exec-6] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@2624669f  send messageMessage(name=agent_agent, text=hell)
+[INFO ] 2019-10-24 19:45:01.550 [http-nio-8080-exec-7] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@2624669f  send messageMessage(name=agent_agent, text=hen)
+[INFO ] 2019-10-24 19:45:50.250 [http-nio-8080-exec-2] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0 registered/logged in new user
+[INFO ] 2019-10-24 19:46:05.785 [http-nio-8080-exec-3] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=hb])
+[INFO ] 2019-10-24 19:46:05.785 [http-nio-8080-exec-3] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:05.785 [http-nio-8080-exec-3] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:50.348 [http-nio-8080-exec-7] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=xxzczxc)
+[INFO ] 2019-10-24 19:46:50.348 [http-nio-8080-exec-7] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:50.348 [http-nio-8080-exec-7] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:51.286 [http-nio-8080-exec-8] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=zxczxc)
+[INFO ] 2019-10-24 19:46:51.287 [http-nio-8080-exec-8] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:51.287 [http-nio-8080-exec-8] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:51.934 [http-nio-8080-exec-9] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=zxcxz)
+[INFO ] 2019-10-24 19:46:51.934 [http-nio-8080-exec-9] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:51.934 [http-nio-8080-exec-9] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:52.338 [http-nio-8080-exec-10] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=zxc)
+[INFO ] 2019-10-24 19:46:52.338 [http-nio-8080-exec-10] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:52.338 [http-nio-8080-exec-10] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:52.680 [http-nio-8080-exec-4] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=zxc)
+[INFO ] 2019-10-24 19:46:52.680 [http-nio-8080-exec-4] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:52.680 [http-nio-8080-exec-4] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:52.962 [http-nio-8080-exec-1] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=zxc)
+[INFO ] 2019-10-24 19:46:52.962 [http-nio-8080-exec-1] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:52.962 [http-nio-8080-exec-1] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:53.220 [http-nio-8080-exec-2] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=xcz)
+[INFO ] 2019-10-24 19:46:53.220 [http-nio-8080-exec-2] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:53.220 [http-nio-8080-exec-2] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:54.339 [http-nio-8080-exec-3] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1e21e2a0  send messageMessage(name=client_client, text=xcz)
+[INFO ] 2019-10-24 19:46:54.339 [http-nio-8080-exec-3] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:46:54.339 [http-nio-8080-exec-3] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:46:59.005 [http-nio-8080-exec-5] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@2624669f  send messageMessage(name=agent_agent, text=gvhbj)
+[INFO ] 2019-10-24 19:47:00.376 [http-nio-8080-exec-6] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@2624669f  send messageMessage(name=agent_agent, text=jkl)
+[INFO ] 2019-10-24 19:53:23.911 [http-nio-8080-exec-7] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@49814b registered/logged in new user
+[INFO ] 2019-10-24 19:53:27.997 [http-nio-8080-exec-9] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@49814b  send messageMessage(name=client_client, text=        dsff)
+[INFO ] 2019-10-24 19:53:27.998 [http-nio-8080-exec-9] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:53:27.998 [http-nio-8080-exec-9] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:53:29.267 [http-nio-8080-exec-10] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@49814b  send messageMessage(name=client_client, text=sdfdsf)
+[INFO ] 2019-10-24 19:53:29.267 [http-nio-8080-exec-10] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:53:29.267 [http-nio-8080-exec-10] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:53:30.423 [http-nio-8080-exec-1] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@49814b  send messageMessage(name=client_client, text=sdf)
+[INFO ] 2019-10-24 19:53:30.423 [http-nio-8080-exec-1] InMemoryChatRepository - null map find this
+[INFO ] 2019-10-24 19:53:30.423 [http-nio-8080-exec-1] InMemoryChatRepository - null speak with client_client
+[INFO ] 2019-10-24 19:53:51.372 [http-nio-8080-exec-3] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1afa73f registered/logged in new user
+[INFO ] 2019-10-24 19:53:51.372 [http-nio-8080-exec-3] InMemoryChatRepository - client_clientsendQueueMessagesFrom_Whom
+[INFO ] 2019-10-24 19:54:03.243 [http-nio-8080-exec-4] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@49814b this client become free
+[INFO ] 2019-10-24 19:54:03.243 [http-nio-8080-exec-4] InMemoryChatRepository - touchsoft.model.ConnectionWebsocket@1afa73f this agent become free

@@ -1,0 +1,58 @@
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/userdb?useSSL=false
+    username: root
+    password: '1'
+  tomcat:
+    max-wait: 20000
+    max-active: 50
+    max-idle: 20
+    min-idle: 15
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        format_sql: true
+        id:
+          new_generator_mappings: false
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  pid:
+    fail-on-write-error:
+
+server:
+   port: 8080
+
+security:
+  jwt:
+    token:
+      secret-key: secret-key
+      expire-length: 1200000
+#      20 min
+      
+UserController:
+  login: Authenticates user and returns its JWT token.
+  register: Creates user and returns its JWT token
+  deleteAgent: Deletes specific agent by username
+  deleteClient: Deletes specific client by username
+  searchClient: Returns specific client by username
+  searchAgent: Returns specific client by username
+  searchAllClients: Returns all registered clients
+  searchAllAgents: Returns all registered agents
+  sendMessage: Send message
+  getMessage: Get message
+  leaveChat: Break connection from current
+  exit: Returns all registered agents
+
+
+
+#debug: true
+#logging:
+#  level: warn
+
